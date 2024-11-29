@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restraunt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restraunt.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\about-banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-banner.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-3.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-4.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\cta-banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-banner.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\delivery-banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\delivery-banner-bg.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\delivery-boy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\delivery-boy.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-1.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-2.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-3.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-4.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-5.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\food-menu-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-menu-6.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\footer-illustration.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-illustration.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\hero-banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-banner-bg.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\hero-banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-banner.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\hero-bg-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-bg-shape.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-1.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-2.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-3.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-4.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-5.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-icon-1.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-icon-2.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-icon-3.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-icon-4.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\promo-icon-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-icon-5.svg"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\sale-shape-red.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sale-shape-red.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\sale-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sale-shape.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\shape-grey.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape-grey.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\images\\shape-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape-white.png"
+    },
+    {
+      "Id": "D:\\Restraunt\\Restraunt\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restraunt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restraunt.props",
+      "PackagePath": "build\\Restraunt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restraunt.props",
+      "PackagePath": "buildMultiTargeting\\Restraunt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restraunt.props",
+      "PackagePath": "buildTransitive\\Restraunt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
